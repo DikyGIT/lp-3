@@ -1,0 +1,7 @@
+color -> coolors.com
+
+--primary-color: #111111;
+  --primary-color-two: #f3f5f7;
+  --secondary-color: #57e5a7;
+  --text-color: #ffffff;
+  --text-color-opacity: #ffffff8a;

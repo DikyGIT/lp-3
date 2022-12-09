@@ -1,0 +1,4 @@
+background-color: #111111;
+  opacity: 1;
+  background-image: linear-gradient(#171717 3.5px, transparent 3.5px), linear-gradient(to right, #171717 3.5px, #111111 3.5px);
+  background-size: 70px 70px;
